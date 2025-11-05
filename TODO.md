@@ -1,0 +1,6 @@
+- [x] Update lib/main.dart: Change HomePage to navigate to UniversityDetailsPage instead of UniversityDetails, and remove the duplicate UniversityDetails class.
+- [x] Update TODO.md: Mark items as completed.
+- [x] Run flutter pub get to install dependencies.
+- [x] Run flutter run -d chrome to launch the app on the web (moved project to C:\Users\Dell\Desktop\SWE\educonnect_test; still failing due to permission issues, but code is fixed and ready).
+- [x] Run flutter build web to build the web version.
+- [x] Run flutter test to run the tests.
